@@ -91,8 +91,6 @@ class ViewController: UIViewController, CountdownTimerDelegate {
         return countdownTimer
     }()
     
-
-    
     
     // MARK - Slider Load Setup 
     var selectedSecs = 30
@@ -440,7 +438,6 @@ class ViewController: UIViewController, CountdownTimerDelegate {
             }
         }
     }
-    
     
     
 }

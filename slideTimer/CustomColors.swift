@@ -100,5 +100,4 @@ struct CustomColor {
     static let oceanBlue = UIColor(red:0.00, green:0.40, blue:0.60, alpha:1.0)
     static let springGreen = UIColor(red:0.00, green:0.80, blue:0.40, alpha:1.0)
     static let autumnOrange = UIColor(red:0.85, green:0.45, blue:0.20, alpha:1.0)
-    
 }
